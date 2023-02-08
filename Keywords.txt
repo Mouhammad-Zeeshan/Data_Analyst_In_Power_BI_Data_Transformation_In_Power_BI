@@ -1,0 +1,25 @@
+Data Transformation In Power BI.
+
+1. There are mainly two types of data Shapes:
+i) Long Format
+ii) Wide Format
+
+2. There are two types of transformation in Power BI Power Query
+
+i) Pivot and Unpivot  
+ii) Tranpose of Table
+
+3. Append and Merge Queries.
+4. There are different types of joins
+i) iNNER JOIN
+ii)Left Join
+iii)Right Join
+iv) Full Join
+
+1. Backbone of Power Query Is Advance Editor.
+2. DAX Language is used to create measure and analyze data, While M language is used to extract, transform and load data.
+3.  
+
+
+
+
